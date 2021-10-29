@@ -1,0 +1,11 @@
+.itemCard {
+    display: flex;
+    width: 650px;
+    height: 45px;
+    background-color: rgb(219, 212, 212);
+    border: 1px solid darkgray;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 8px;
+    color: rgb(131, 125, 125);
+}
